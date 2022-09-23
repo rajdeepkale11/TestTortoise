@@ -28,5 +28,5 @@ jobs:
         with: 
           node-version: 16
       - name: Run variables.js file 
-        run: |
+        run:
             node variables.js
