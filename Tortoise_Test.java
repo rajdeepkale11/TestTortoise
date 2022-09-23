@@ -1,0 +1,4 @@
+class A {
+	
+	#user1
+}
